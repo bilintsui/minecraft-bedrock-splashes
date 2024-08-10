@@ -1,0 +1,10 @@
+This repository contains splash JSON file from Minecraft Pocket/Bedrock Edition.
+
+Sources:
+1. 0.12.1.b1 - 0.15.10: assets/splashes.json 
+2. 0.16.0.b1 - 0.16.0.b4: assets/resourcepacks/vanilla/splashes.json
+3. 0.16.0.b5 - 0.17.0.1: assets/resourcepacks/vanilla/client/splashes.json
+4. 0.17.0.2 - 1.20.50.20: assets/resource_packs/vanilla/splashes.json
+5. 1.20.50.21 and onward: assets/assets/resource_packs/vanilla/splashes.json
+
+Note that some versions are missing, since it never been archived. Versions before 0.12.1.b1 are also missing, because them are hard-coded.
