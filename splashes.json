@@ -386,5 +386,18 @@
     "Sniff sniff...",
     "Place hanging sign here",
     "Joule is neat too!"
+  ],
+  "conditional": [
+    {
+      "requires": {
+        "trialMode": true
+      },
+      "splashes": [
+        "The first taste's free",
+        "Mine and craft for free",
+        "More like Yourscraft",
+        "Try it on, see if it fits"
+      ]
+    }
   ]
 }
